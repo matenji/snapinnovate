@@ -58,6 +58,9 @@ body {
 .logo-text {
   max-width: 400px;
   width: 100%;
+  @media screen and (max-width: 480px) {
+    max-width: 260px;
+  }
 }
 
 .night {
