@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32b4a76a-a294-4367-a240-c87b84574f19" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="$PROJECT_DIR$/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/css/main.css" afterPath="$PROJECT_DIR$/app/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/main.scss" afterPath="$PROJECT_DIR$/app/scss/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/main.min.css" afterPath="$PROJECT_DIR$/dist/css/main.min.css" />
-    </list>
+    <list default="true" id="32b4a76a-a294-4367-a240-c87b84574f19" name="Default" comment="" />
     <ignored path="snap-innovate.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -736,7 +730,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23677000" />
+    <option name="totallyTimeSpent" value="23726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
